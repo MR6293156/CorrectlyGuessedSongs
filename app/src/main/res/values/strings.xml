@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CorrectlyGuessedSongs</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="hungry_like_the_wolf_duran_duran">Hungry Like the Wolf - Duran Duran</string>
+    <string name="panini_lil_nas_x">Panini - Lil Nas X</string>
+    <string name="am_i_wrong_nico_vinz"><![CDATA[Am I Wrong? - Nico & Vinz]]></string>
+    <string name="list_of_correctly_guessed_songs">List of correctly guessed songs</string>
+    <string name="she_bop_cyndi_lauper">She Bop - Cyndi Lauper</string>
+    <string name="domino_jessie_j">Domino - Jessie J</string>
+    <string name="all_the_small_things_blink_182">All the Small Things - Blink-182</string>
+    <string name="round_round_sugababes">Round Round - Sugababes</string>
+    <string name="busy_earnin_jungle">Busy Earnin\' - Jungle</string>
+    <string name="cool_shoe_shine_gorillaz">Cool Shoe Shine - Gorillaz</string>
+    <string name="that_don_t_impress_me_much_shania_twain">That Don\'t Impress Me Much - Shania Twain</string>
+    <string name="american_boy_estelle_feat_kanye_west">American Boy - Estelle feat. Kanye West</string>
+</resources>
